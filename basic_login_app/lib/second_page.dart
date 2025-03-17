@@ -22,7 +22,7 @@ class _SecondPageState extends State<SecondPage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Welcome'),
+        title: const Text('Welcome kenneth'),
         backgroundColor: Colors.blueGrey[700],
       ),
       backgroundColor: Colors.grey[800],
